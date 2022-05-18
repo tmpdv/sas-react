@@ -1,5 +1,5 @@
 import React from "react";
-import { Route, Switch, BrowserRouter } from "react-router-dom";
+import { Route, Switch, HashRouter } from "react-router-dom";
 
 import MainPage from "./components/MainPage";
 import Upload from "./components/Upload";
@@ -8,12 +8,12 @@ import Upload from "./components/Upload";
 function App() {
   return (
     <div className="root">
-      <BrowserRouter>
+      <HashRouter>
         <Switch>
           <Route exact path="/" component={MainPage}></Route>
           <Route path="/admin/upload" component={Upload}></Route>
         </Switch>
-      </BrowserRouter>
+      </HashRouter>
     </div>
   );
 }
