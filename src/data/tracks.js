@@ -1,7 +1,7 @@
 const tracks = [
     {
         "name": "Перелёт",
-        "link": "/https://docs.google.com/uc?export=download&id=1yNnI9lexfjZDpyFXltRI-mMgSZiZIwKr",
+        "link": "https://docs.google.com/uc?export=download&id=1yNnI9lexfjZDpyFXltRI-mMgSZiZIwKr",
         "creationDate": "2013-11-25"
     },
     {
