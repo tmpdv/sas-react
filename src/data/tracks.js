@@ -26,7 +26,7 @@ const tracks = [
     },
     {
         "name": "LLSSDD",
-        "link": "https://docs.google.com/uc?export=download&id=1sFOZTUdBbOMQQhnJZvtWgdp5qrnDVhAY.mp3",
+        "link": "https://docs.google.com/uc?export=download&id=1sFOZTUdBbOMQQhnJZvtWgdp5qrnDVhAY",
         "creationDate": "2015-06-01"
     },
     // {
